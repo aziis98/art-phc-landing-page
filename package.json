@@ -1,0 +1,18 @@
+{
+    "name": "art-phc-website-landing",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "sass": "^1.54.0",
+        "typescript": "^4.7.4",
+        "vite": "^3.0.3"
+    }
+}
